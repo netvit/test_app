@@ -13,7 +13,7 @@ public class Main {
         
         System.out.println("hello");
 
-        HelloFrame frame = new HelloFrame();
+        new HelloFrame();
     }
 
     public static void test2(String sentence_start){
